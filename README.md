@@ -1,5 +1,5 @@
 # 事前条件
-- Dockerの環境がある
+- Dockerの環境がある
 - kubernetesの環境がある
 
 # 立ち上げ方
@@ -20,7 +20,7 @@ kubectl get pods
 ### pod達の詳細情報を知りたい
 
 ```
-kubectl describe pods [pod-name]
+kubectl describe pods [pod-name]
 ```
 
 ### deploymentsについていろいろ知りたい
