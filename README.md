@@ -1,5 +1,5 @@
 # 事前条件
-- Dockerの環境がある
+- Dockerの環境がある
 - kubernetesの環境がある
 
 # 立ち上げ方

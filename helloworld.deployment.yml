@@ -21,4 +21,4 @@ spec:
       - name: helloworld
         image: crccheck/hello-world
         ports:
-        - containerPort: 80
+        - containerPort: 8000
